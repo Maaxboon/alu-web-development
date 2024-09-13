@@ -43,3 +43,16 @@ aside {
     padding: 15px;
     overflow-y: auto;
 }
+
+.logo {
+    font-size: 2.5em;
+    margin-right: 20px;
+    font-family: 'Cursive', sans-serif;
+}
+
+header ul {
+    list-style-type: none; /* Remove bullets */
+    display: flex;
+    padding: 0; /* Remove padding */
+    margin: 0;  /* Remove margin */
+}
