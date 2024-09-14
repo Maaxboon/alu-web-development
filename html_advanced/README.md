@@ -25,4 +25,4 @@ The Figma design can be accessed [here](https://figma.com/some-link). Please mak
 
 ## Project Structure
 
-![Design Preview](./images/design-preview.jpg)
+![Design Preview](./images/design-preview.png)
